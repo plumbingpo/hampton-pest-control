@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hamptonpestcontrolco.com/sitemap.xml
